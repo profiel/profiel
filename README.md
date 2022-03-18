@@ -1,1 +1,4 @@
-Professional software developer / reverse engineer
+I develop things in my free time.
+
+Languages I work in:
+C#, LUA, HTML.

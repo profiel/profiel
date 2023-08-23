@@ -1,4 +1,4 @@
 
 
-GSC, LUA, C# / C, learning C++ & very invested into assembly.
-HTML / CSS when i'm bored out of my mind..
+professional coder and drug dealer.
+C++, assembly, C#, python, rust, gsc, html, css, js, java, sql, perl.

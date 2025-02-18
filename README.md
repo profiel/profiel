@@ -1,2 +1,2 @@
-developing for fun
+developing for fun.
 c++ - asm - gamehacking 
